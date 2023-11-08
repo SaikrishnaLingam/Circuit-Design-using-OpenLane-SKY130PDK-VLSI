@@ -39,13 +39,20 @@ Here are all the designs made in this repo:
 
 **9. NOT Gate**
 
-    ![not_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/c15bcb60-fcbe-49ab-874f-8d4ef84b155d)
+   ![not_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/cc2b0294-628a-4806-bf41-3f0bceba94df)
+
 
 **10. NAND Gate**
-    ![nand_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/aafecec2-5ac6-4177-8353-4294a7e5985f)
+
+![nand_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/5c8e2c74-9e50-4009-a321-a1793a19107e)
+
 
 **11. XOR Gate**
-    ![xor_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/6314aea5-d0ae-4b64-83c4-18600018cdc3)
+
+![xor_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/f51969d6-e389-4fc9-a9a8-8150300ae6f3)
+
 
 **12. JK Flip Flop**
-    ![jkflipflop](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/33eef162-6321-4e9e-8fd6-e045f62b559c)
+
+   ![jkflipflop](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/20a3662d-9cc8-42fd-a417-159a9f3190de)
+
