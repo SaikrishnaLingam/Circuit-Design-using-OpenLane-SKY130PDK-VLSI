@@ -4,6 +4,7 @@ These are different circuit designs made using the open-source automated RTL to 
 Running these designs in colab requires you to first download 'requirements-dev.txt' file and upload it into Google Colab. Then restart the runtime and run each cell one after the other.
 
 Here are all the designs made in this repo:
+
 **1. 4x1 Multiplexer**
 
    ![4x1_multiplexer](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/3aa81fbd-6a9a-4f79-aafc-860353b4eaa9)
@@ -37,6 +38,7 @@ Here are all the designs made in this repo:
    ![or_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/aa2e9a86-2850-47a0-ab21-bba361186d83)
 
 **9. NOT Gate**
+
     ![not_gate](https://github.com/SaikrishnaLingam/Circuit-Design-using-OpenLane-SKY130PDK-VLSI-/assets/96728983/c15bcb60-fcbe-49ab-874f-8d4ef84b155d)
 
 **10. NAND Gate**
